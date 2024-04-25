@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-04-25T18:13:41Z</dc:date>
+		<meta property="dcterms:modified">2024-04-25T18:13:41Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,14 +49,14 @@
 		<meta property="group-position" refines="#collection-1">6</meta>
 		<dc:description id="description">Two amateur slueths endeavor to break up a carjacking ring.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The city of Bayport is at the mercy of a ring of car thieves! Vehicles have been disappearing off of the well-traveled Shore Road for three weeks; eventually, the gang gets bolder and starts moving their sights to the city. With the police and even Fenton Hardy running into dead ends, the town is in an uproar. The ring runs like a well-oiled machine: no one sees the thieves and the cars seemingly disappear into thin air desite patrols on either end of the Shore Road. Incentivized by a victimized friend, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy Boys&lt;/a&gt; are determined to bring down the gang … but at what cost?&lt;/p&gt;
-			&lt;p&gt;This is the sixth book of the Hardy boys series, first published in 1928 and then rewritten in 1964. While the author is credited to be &lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon"&gt;Franklin W. Dixon&lt;/a&gt;, in reality, Leslie MacFarlane and Edward Stratemeyer are primarily responsible for the original, early volumes, including this one. David Grambs is primarily reponsible for writing the revised version. This Standard Ebooks edition is based on the original 1928 text.&lt;/p&gt;
+			&lt;p&gt;The city of Bayport is at the mercy of a ring of car thieves! Vehicles have been disappearing off of the well-traveled Shore Road for three weeks; eventually, the gang gets bolder and starts moving their sights to the city. With the police and even Fenton Hardy running into dead ends, the town is in an uproar. The ring runs like a well-oiled machine: no one sees the thieves and the cars seemingly disappear into thin air despite patrols on either end of the Shore Road. Incentivized by a victimized friend, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy Boys&lt;/a&gt; are determined to bring down the gang … but at what cost?&lt;/p&gt;
+			&lt;p&gt;This is the sixth book of the Hardy boys series, first published in 1928 and then rewritten in 1964. While the author is credited to be &lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon"&gt;Franklin W. Dixon&lt;/a&gt;, in reality, Leslie MacFarlane and Edward Stratemeyer are primarily responsible for the original, early volumes, including this one. David Grambs is primarily responsible for writing the revised version. This Standard Ebooks edition is based on the original 1928 text.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73102</dc:source>
 		<dc:source>https://archive.org/details/the-shore-road-mystery</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">40592</meta>
+		<meta property="se:reading-ease.flesch">84.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Shore_Road_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/franklin-w-dixon_the-shore-road-mystery</meta>
 		<dc:creator id="author">Franklin W. Dixon</dc:creator>
@@ -88,6 +88,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

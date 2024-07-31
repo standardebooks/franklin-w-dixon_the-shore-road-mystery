@@ -55,7 +55,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73102</dc:source>
 		<dc:source>https://archive.org/details/the-shore-road-mystery</dc:source>
-		<meta property="se:word-count">40592</meta>
+		<meta property="se:word-count">40589</meta>
 		<meta property="se:reading-ease.flesch">84.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Shore_Road_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/franklin-w-dixon_the-shore-road-mystery</meta>

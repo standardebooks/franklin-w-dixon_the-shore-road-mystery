@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/franklin-w-dixon/the-shore-road-mystery</dc:identifier>
 		<dc:date>2024-04-25T18:13:41Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">Two amateur slueths endeavor to break up a carjacking ring.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Two amateur slueths endeavor to break up a carjacking ring.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The city of Bayport is at the mercy of a ring of car thieves! Vehicles have been disappearing off of the well-traveled Shore Road for three weeks; eventually, the gang gets bolder and starts moving their sights to the city. With the police and even Fenton Hardy running into dead ends, the town is in an uproar. The ring runs like a well-oiled machine: no one sees the thieves and the cars seemingly disappear into thin air despite patrols on either end of the Shore Road. Incentivized by a victimized friend, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy Boys&lt;/a&gt; are determined to bring down the gang … but at what cost?&lt;/p&gt;
 			&lt;p&gt;This is the sixth book of the Hardy boys series, first published in 1928 and then rewritten in 1964. While the author is credited to be &lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon"&gt;Franklin W. Dixon&lt;/a&gt;, in reality, Leslie MacFarlane and Edward Stratemeyer are primarily responsible for the original, early volumes, including this one. David Grambs is primarily responsible for writing the revised version. This Standard Ebooks edition is based on the original 1928 text.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/73102</dc:source>
 		<dc:source>https://archive.org/details/the-shore-road-mystery</dc:source>
